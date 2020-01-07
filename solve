@@ -1,0 +1,7 @@
+#! /bin/bash
+
+name="problem=$1"
+mkdir $name
+cp Template.java $name
+mv $name/Template.java $name/Solution.java
+touch $name/Solution.js
