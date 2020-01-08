@@ -8,3 +8,5 @@ final class Solution {
 		System.out.println(solve());
 	}
 }
+
+// If this solution helped you, please star the repo!
