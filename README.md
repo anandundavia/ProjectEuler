@@ -12,4 +12,4 @@ And, To use it:
 
 Example:
 `./solve 4`  
-It will create a directory named `problem=4`
+It will create a directory named `problem=004`
