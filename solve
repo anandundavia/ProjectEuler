@@ -1,6 +1,6 @@
 #! /bin/bash
 
-name="problem=$1"
+name="problem=$(printf "%03.0f" $1)"
 mkdir $name
 cp Template.java $name
 mv $name/Template.java $name/Solution.java
